@@ -21,6 +21,7 @@
 - Security 리팩토링
 - HATEOAS 도입
 - Commit 컨벤션 정하기
+- 완성
 
 # Furniture_Mall_Project
 ![image](https://github.com/shsh99/Furniture_Mall_Project/assets/134079624/e345ed1e-88a5-473d-8a52-389513e7d75a)
