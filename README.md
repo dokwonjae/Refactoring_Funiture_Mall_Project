@@ -1,7 +1,18 @@
 # Refactoring_Funiture_Mall_Project
 가구 쇼핑몰 웹 개발 팀 프로젝트 (리팩토링 2024.02 ~ )
 
-
+**1.1v (2024.02~2024.02)**
+엔티티 연관관계 부여
+조회 쿼리 최적화 (페이징)
+Controller 상태코드 변경
+테스트 코드 리팩토링 (통합 테스트 위주)
+**1.2v (2024.03 ~)**
+API 문서 작성
+통합테스트 리팩토링, 단위테스트
+S3를 이용해서 파일업로드 하기
+Security 리팩토링
+HATEOAS 도입
+Commit 컨벤션 정하기
 
 # Furniture_Mall_Project
 ![image](https://github.com/shsh99/Furniture_Mall_Project/assets/134079624/e345ed1e-88a5-473d-8a52-389513e7d75a)
